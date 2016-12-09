@@ -30,6 +30,8 @@ public class CustomView extends View {
         this(context, attrs,0);
         //sssssssssssssssssssssss
 
+        //eeeeeeeeeeeeeeeeeeeeeeeee
+
     }
 
     public CustomView(Context context, AttributeSet attrs, int defStyleAttr) {
