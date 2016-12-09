@@ -28,6 +28,7 @@ public class CustomView extends View {
 
     public CustomView(Context context, AttributeSet attrs) {
         this(context, attrs,0);
+        //sssssssssssssssssssssss
 
     }
 
